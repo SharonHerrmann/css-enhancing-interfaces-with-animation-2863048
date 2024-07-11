@@ -71,18 +71,19 @@ h2 {
   opacity: 0;
 }
 /* Hover animations */
-.img:hover{
-  transform:scale(300%);
+.robot:hover img{
+  transform: scale(300%);
   opacity: 0;
 }
-.mask:hover{
+
+.robot:hover .mask{
   opacity:100%;
 }
-.shop:hover{
+.robot:hover .shop{
   opacity:100%;
   transform:scale(100%);
 }
-h2:hover{
+.robot:hover h2{
   opacity: 100%;
   transform:scale(100%);
 }
