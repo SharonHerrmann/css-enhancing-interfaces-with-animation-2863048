@@ -82,4 +82,8 @@ h2 {
   opacity:100%;
   transform:scale(100%);
 }
+h2:hover{
+  opacity: 100%;
+  transform:scale(100%);
+}
 
