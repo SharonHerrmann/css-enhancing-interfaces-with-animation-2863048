@@ -74,3 +74,11 @@ h2 {
 .mask:hover{
   opacity:100%;
 }
+.shop:hover{
+  opacity:100%;
+  transform:scale(100%);
+}
+.img:hover{
+  transform:scale(300%);
+  opacity: 0;
+}
