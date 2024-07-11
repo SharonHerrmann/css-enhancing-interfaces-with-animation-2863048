@@ -71,6 +71,10 @@ h2 {
   opacity: 0;
 }
 /* Hover animations */
+.img:hover{
+  transform:scale(300%);
+  opacity: 0;
+}
 .mask:hover{
   opacity:100%;
 }
@@ -78,7 +82,4 @@ h2 {
   opacity:100%;
   transform:scale(100%);
 }
-.img:hover{
-  transform:scale(300%);
-  opacity: 0;
-}
+
