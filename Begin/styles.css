@@ -71,3 +71,6 @@ h2 {
   opacity: 0;
 }
 /* Hover animations */
+.mask:hover{
+  opacity:100%;
+}
