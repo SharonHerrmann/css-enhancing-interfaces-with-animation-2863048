@@ -79,12 +79,9 @@ h2 {
 .robot:hover .mask{
   opacity:100%;
 }
-.robot:hover .shop{
+.robot:hover .shop, .robot:hover h2{
   opacity:100%;
   transform:scale(100%);
 }
-.robot:hover h2{
-  opacity: 100%;
-  transform:scale(100%);
-}
+
 
